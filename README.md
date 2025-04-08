@@ -1,2 +1,1 @@
-# ELEC_877_Project
-ELEC 877 Final Project - Fake News Detection
+# ELEC 877 Project - Fake News Detection Based on News Content and Social Contexts Using Deep Learning Methods
